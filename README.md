@@ -17,34 +17,14 @@
 
 ---
 
-## 🧰 Tech Stack
 
-## 🚀 Tech Arsenal
+## ⚡ TECH MATRIX
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=laravel" /><br>Laravel</td>
-</tr>
+<p align="center">
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
-</tr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=800&color=39FF14&center=true&width=850&lines=◈+LANGUAGES+→+C%2B%2B+•+Java+•+Python+•+PHP;◈+FRONTEND+→+HTML+•+CSS+•+JavaScript+•+React;◈+BACKEND+→+Node.js+•+Laravel;◈+TOOLS+→+Git+•+GitHub+•+VS+Code" />
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
-</tr>
-</table>
----
+</p>
 
 ## 🧠 Currently Learning
 
