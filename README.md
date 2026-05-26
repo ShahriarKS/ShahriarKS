@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E56,50:243B55,100:00C9FF&height=222&section=header&text=%%Shahriar%20Kabir%20Saikat&fontSize=42&fontColor=58D6FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E96,50:243B55,100:00C9FF&height=222&section=header&text=%Shahriar%20Kabir%20Saikat&fontSize=42&fontColor=58D6FF&animation=fadeIn" />
 <h3 align="center">TALK IS CHEAP , SHOW ME THE CODE</h3>
 
 <p align="center">
