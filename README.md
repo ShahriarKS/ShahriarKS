@@ -21,9 +21,11 @@
 ## ⚡ TECH MATRIX
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=39FF14&center=true&width=900&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+PHP;React+%7C+Node.js+%7C+Laravel;GitHub+%7C+VS+Code" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=800&color=39FF14&center=true&width=850&lines=◈+LANGUAGES+→+C%2B%2B+•+Java+•+Python+•+PHP;◈+FRONTEND+→+HTML+•+CSS+•+JavaScript+•+React;◈+BACKEND+→+Node.js+•+Laravel;◈+TOOLS+→+Git+•+GitHub+•+VS+Code" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode&theme=dark" />
 </p>
 
 ## 🧠 Currently Learning
