@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shahriar%20Kabir%20Saikat&fontSize=42&fontColor=58D6FF&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Shahriar%20Kabir%20Saikat&fontSize=45&color=0:12c2e9,50:c471ed,100:f64f59&stroke=ffffff" />
 <h3 align="center">CSE Undergraduate | Machine Learning Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
