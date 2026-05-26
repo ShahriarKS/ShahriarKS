@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Shahriar%20Kabir%20Saikat&fontSize=45&color=0:12c2e9,50:c471ed,100:f64f59&stroke=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=1000&height=120&lines=%3CShahriar+Kabir+Saikat+%2F%3E;CSE+Undergraduate;ML+Enthusiast" />
 <h3 align="center">CSE Undergraduate | Machine Learning Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
