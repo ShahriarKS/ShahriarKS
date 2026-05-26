@@ -19,10 +19,31 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,git,github,vscode&theme=dark" />
-</p>
+## 🚀 Tech Arsenal
 
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" /><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel" /><br>Laravel</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br>Node.js</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" /><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" /><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code</td>
+</tr>
+</table>
 ---
 
 ## 🧠 Currently Learning
