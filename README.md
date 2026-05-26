@@ -1,59 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shahriar Kabir Saikat</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shahriar%20Kabir%20Saikat&fontSize=42&fontColor=58D6FF&animation=fadeIn" />
 
-<h3 align="center">
-Computer Science Undergraduate | Machine Learning Enthusiast |
-Risk Analytics & Intelligent Systems
-</h3>
+<h3 align="center">CSE Undergraduate | Machine Learning Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;CSE+Undergraduate;C%2B%2B+%7C+Python+Developer;AI+%7C+DSA+Learner&center=true&width=700&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58D6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;C%2B%2B+%7C+Java+%7C+Python+Programmer;React+%7C+Node.js+%7C+Web+Development;DSA+%26+Problem+Solving" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Undergraduate at UIU
-
-🤖 Interested in Machine Learning, AI & Intelligent Systems
-
-💻 Strong interest in C++, Python & Problem Solving
-
-📈 Exploring Data Science, Risk Analytics & Research
+- 🎓 Computer Science Undergraduate at **United International University (UIU)**
+- 🤖 Interested in **Machine Learning, AI & Intelligent Systems**
+- 💻 Working with **C++, Java, Python, React & Node.js**
+- 📊 Exploring **Data Science, Risk Analytics & Research**
+- 🧠 Building strong foundation in **DSA & Problem Solving**
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,git,github,vscode&theme=dark" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🧠 Currently Learning
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- Machine Learning fundamentals  
+- Data Structures & Algorithms  
+- Full-stack web development  
+- Clean project documentation  
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ShahriarKS&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahriarKS&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarKS&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarKS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/shahriar-kabir-saikat-344659329
+<p align="center">
+  <a href="mailto:psycat202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shahriar-kabir-saikat-344659329">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ShahriarKS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Email:
-psycat202@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
