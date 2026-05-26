@@ -18,14 +18,10 @@
 ---
 
 
-## ⚡ TECH MATRIX
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=39FF14&center=true&width=900&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+PHP;React+%7C+Node.js+%7C+Laravel;GitHub+%7C+VS+Code" />
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode" />
 </p>
 
 ## 🧠 Currently Learning
