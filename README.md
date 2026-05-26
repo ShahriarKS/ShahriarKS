@@ -18,10 +18,14 @@
 ---
 
 
-## ⚡ Tech Stack
+## 🚀 Tech Universe
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&center=true&width=800&lines=⚡+Tech+Stack+⚡" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode&theme=dark" />
 </p>
 
 ## 🧠 Currently Learning
