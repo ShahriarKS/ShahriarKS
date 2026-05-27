@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarKS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-## 🚀 Contribution
+## 🚀 Dynamic Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg" />
