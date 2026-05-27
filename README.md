@@ -25,7 +25,15 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php,html,css,js,react,nodejs,laravel,pytorch,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55" height="55"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" height="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
 </p>
 
 ## 🧠 Currently Learning
