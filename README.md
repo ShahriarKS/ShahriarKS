@@ -60,9 +60,8 @@
 ## 🚀 Dynamic Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 ## 🌐 Connect With Me
