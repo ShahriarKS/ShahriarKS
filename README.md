@@ -54,12 +54,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarKS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-## 🚀 **Dynamic Contribution**
+
+---
+
+## 🚀 Dynamic Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake-dark.svg">
 </p>
-## 🌐 **Connect With Me**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:psycat202@gmail.com">
