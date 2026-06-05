@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58D6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;C%2B%2B+%7C+Java+%7C+Python+Programmer;React+%7C+Node.js+%7C+Web+Development;DSA+%26+Problem+Solving" />
 </p>
-<p align="right">
-  <img src="assets/person.jfif" height="500" />
-</p>
 
 ---
 
@@ -17,7 +14,10 @@
 - 💻 Working with **C++, Java, Python, React & Node.js**
 - 📊 Exploring **Data Science, Risk Analytics & Research**
 - 🧠 Building strong foundation in **DSA & Problem Solving**
-<img src="assets/person.jfif" height="700">
+<p align="right">
+  <img src="assets/person.jfif" height="500" />
+</p>
+
 
 ---
 
