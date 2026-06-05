@@ -7,7 +7,7 @@
 
 ---
 
- 
+ <br>
 <p align="center">
   <img src="assets/aboutME.png" height="600" />
 </p>
@@ -15,7 +15,7 @@
 
 ---
 
-
+<br><br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&width=800&lines=⚡+Tech+Stack+⚡" />
 </p>
@@ -32,7 +32,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
 </p>
 
-
+<br>
 ##  Currently Learning
 
 - Machine Learning fundamentals  
@@ -41,7 +41,7 @@
 - Clean project documentation  
 
 ---
-
+<br>
 ##  GitHub Stats
 
 <p align="center">
@@ -53,14 +53,14 @@
 </p>
 
 ---
-
+<br>
 ##  Dynamic Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg">
 </p>
 ---
-
+<br!>
 ##  Connect With Me
 
 <p align="center">
