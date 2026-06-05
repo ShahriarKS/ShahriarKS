@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58D6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;C%2B%2B+%7C+Java+%7C+Python+Programmer;React+%7C+Node.js+%7C+Web+Development;DSA+%26+Problem+Solving" />
 </p>
+<p align="right">
+  <img src="assets/coding.gif" width="250">
+  </p>
 
 ---
 
@@ -15,11 +18,8 @@
 - 📊 Exploring **Data Science, Risk Analytics & Research**
 - 🧠 Building strong foundation in **DSA & Problem Solving**
 
-- <p align="left">
-  <img src="assets/typing.gif" width="250">
-  </p>
-  <p align="right">
-  <img src="assets/coding.gif" width="250">
+ <p align="left">
+  <img src="assets/typing.gif" width="450">
   </p>
 ---
 
