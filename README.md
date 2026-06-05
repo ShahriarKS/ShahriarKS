@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&width=800&height=100&lines=⚡+Tech+Stack+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=500&color=00F7FF&center=true&width=800&height=100&lines=⚡+Tech+Stack+⚡" />
 </p>
 
 <p align="center">
