@@ -15,7 +15,7 @@
 - 📊 Exploring **Data Science, Risk Analytics & Research**
 - 🧠 Building strong foundation in **DSA & Problem Solving** 
   <p align="right">
-  <img src="assets/coding.gif" width="150">
+  <img src="assets/coding.gif" width="250">
   </p>
 ---
 
