@@ -9,7 +9,7 @@
 
  
 <p align="center">
-  <img src="assets/aboutME.png" height="700" />
+  <img src="assets/aboutME.png" height="600" />
 </p>
 
 
