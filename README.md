@@ -80,7 +80,7 @@
   </a>
 </p>
 <p align="left">
-  <img src="assets/typing.gif" height = "100" width="750">
+  <img src="assets/typing.gif" height = "300" width="750">
   </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
