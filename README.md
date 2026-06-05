@@ -36,6 +36,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
 </p>
 
+<p align="left">
+  <img src="assets/typing.gif" width="250">
+  </p>
+
 ## 🧠 Currently Learning
 
 - Machine Learning fundamentals  
