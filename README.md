@@ -7,15 +7,9 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Computer Science Undergraduate at **United International University (UIU)**
-- 🤖 Interested in **Machine Learning, AI & Intelligent Systems**
-- 💻 Working with **C++, Java, Python, React & Node.js**
-- 📊 Exploring **Data Science, Risk Analytics & Research**
-- 🧠 Building strong foundation in **DSA & Problem Solving**
-<p align="right">
-  <img src="assets/aboutME.png" height="600" />
+ 
+<p align="center">
+  <img src="assets/aboutME.png" height="700" />
 </p>
 
 
