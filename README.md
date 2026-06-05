@@ -15,7 +15,7 @@
 - 📊 Exploring **Data Science, Risk Analytics & Research**
 - 🧠 Building strong foundation in **DSA & Problem Solving**
 <p align="right">
-  <img src="assets/person.jfif" height="500" />
+  <img src="assets/aboutME.png" height="600" />
 </p>
 
 
