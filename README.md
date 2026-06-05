@@ -81,7 +81,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="assets/typing.gif" height = "300" width="850">
-  </p>
+  <img src="assets/Pixelart retro PC.jfif" width="500" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
