@@ -4,10 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=58D6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;C%2B%2B+%7C+Java+%7C+Python+Programmer;React+%7C+Node.js+%7C+Web+Development;DSA+%26+Problem+Solving" />
 </p>
-
+<br>
 ---
 
- <br>
 <p align="center">
   <img src="assets/aboutME.png" height="600" />
 </p>
@@ -15,9 +14,8 @@
 
 ---
 
-<br><br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&width=800&lines=⚡+Tech+Stack+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&width=800&height=100&lines=⚡+Tech+Stack+⚡" />
 </p>
 
 <p align="center">
@@ -33,6 +31,7 @@
 </p>
 
 <br>
+
 ##  Currently Learning
 
 - Machine Learning fundamentals  
@@ -42,6 +41,7 @@
 
 ---
 <br>
+
 ##  GitHub Stats
 
 <p align="center">
@@ -54,13 +54,15 @@
 
 ---
 <br>
+
 ##  Dynamic Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg">
 </p>
 ---
-<br!>
+<br>
+
 ##  Connect With Me
 
 <p align="center">
