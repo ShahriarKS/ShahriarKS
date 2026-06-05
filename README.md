@@ -13,8 +13,10 @@
 - 🤖 Interested in **Machine Learning, AI & Intelligent Systems**
 - 💻 Working with **C++, Java, Python, React & Node.js**
 - 📊 Exploring **Data Science, Risk Analytics & Research**
-- 🧠 Building strong foundation in **DSA & Problem Solving**
-
+- 🧠 Building strong foundation in **DSA & Problem Solving** 
+  <p align="center">
+  <img src="assets/coding.gif" width="350">
+  </p>
 ---
 
 
