@@ -13,7 +13,11 @@
 - 🤖 Interested in **Machine Learning, AI & Intelligent Systems**
 - 💻 Working with **C++, Java, Python, React & Node.js**
 - 📊 Exploring **Data Science, Risk Analytics & Research**
-- 🧠 Building strong foundation in **DSA & Problem Solving** 
+- 🧠 Building strong foundation in **DSA & Problem Solving**
+
+- <p align="left">
+  <img src="assets/typing.gif" width="250">
+  </p>
   <p align="right">
   <img src="assets/coding.gif" width="250">
   </p>
@@ -36,9 +40,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
 </p>
 
-<p align="left">
-  <img src="assets/typing.gif" width="250">
-  </p>
 
 ## 🧠 Currently Learning
 
