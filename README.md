@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&center=true&width=800&lines=⚡+Tech+Stack+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=500&color=00F7FF&center=true&width=800&lines=⚡+Tech+Stack+⚡" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - Machine Learning fundamentals  
 - Data Structures & Algorithms  
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShahriarKS&theme=tokyonight&hide_border=true" />
@@ -54,14 +54,14 @@
 
 ---
 
-## 🚀 Dynamic Contribution
+##  Dynamic Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarKS/ShahriarKS/output/github-contribution-grid-snake.svg">
 </p>
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:psycat202@gmail.com">
