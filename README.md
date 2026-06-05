@@ -14,7 +14,7 @@
 - 💻 Working with **C++, Java, Python, React & Node.js**
 - 📊 Exploring **Data Science, Risk Analytics & Research**
 - 🧠 Building strong foundation in **DSA & Problem Solving** 
-  <p align="center">
+  <p align="right">
   <img src="assets/coding.gif" width="350">
   </p>
 ---
